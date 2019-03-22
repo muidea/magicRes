@@ -2,7 +2,7 @@
 
 rootPath=$GOPATH
 projectName=magicRes
-projectPath=$rootPath/src/muidea.com/magicRes
+projectPath=$rootPath/src/github.com/muidea/magicRes
 resPath=$projectPath/static
 imageID=""
 imageNamespace=muidea.ai/develop
